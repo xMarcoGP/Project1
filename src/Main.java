@@ -3,5 +3,6 @@
  */
 public class Main {
 
-    
+    private String att1;
+
 }
